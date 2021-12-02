@@ -1,0 +1,246 @@
+/* 
+    Hey there! I see you've found this Gem, Congrats.
+    Feel free to use this in any way you like.
+    For any inquiries, reviews or comments DM me on Instagram
+    Check my instagram @everything.pluto
+    Check my portfolio >> https://portfolio-pluto.vercel.app 
+*/
+
+.topnav {
+    position: absolute;
+    width: 300px;
+    height: 18px;
+    left:850px;
+    top: 74px;
+}
+
+.topnavtext {
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: white;
+}
+
+.menuicon {
+    position: absolute;
+    left: 6.25%;
+    right: 6.25%;
+    top: 6.25%;
+    bottom: 6.25%;
+    color: white;
+}
+
+.searchicon {
+    position: absolute;
+    left: 800px;
+    color: white;
+}
+
+.shoppingcart {
+    position: absolute;
+    left: 850px;
+    color: white;
+}
+
+.bigrect {
+    position: absolute;
+    width: 311px;
+    height: 371px;
+    left: 120px;
+    top: 308px;
+    border-radius: 10px;
+    background: linear-gradient(215.1deg, #C73143 0%, #5B0205 100%);
+    z-index: -1;
+}
+
+.smallrect1 {
+    position: absolute;
+    width: 255px;
+    height: 304px;
+    left: 489px;
+    top: 341px;
+    border-radius: 10px;
+    background: linear-gradient(215.13deg, #C2C4C9 0%, #252523 100%);
+    z-index: -1;
+}
+
+.smallrect2 {
+    position: absolute;
+    width: 255px;
+    height: 304px;
+    left: 835px;
+    top: 341px;
+    border-radius: 10px;
+    background: linear-gradient(215.13deg, #6A21A5 0%, #1C1C1C 100%);
+    z-index: -1;
+}
+
+.smallrect3 {
+    position: absolute;
+    width: 255px;
+    height: 304px;
+    left: 1181px;
+    top: 341px;
+    border-radius: 10px;
+    background: linear-gradient(215.13deg, #3339D2 0%, #BB1997 100%);
+}
+
+.smallrect4 {
+    position: absolute;
+    width: 255px;
+    height: 304px;
+    left: 1527px;
+    top: 341px;
+    border-radius: 10px;
+    background: linear-gradient(215.13deg, #33D2CC 0%, #211F24 100%);
+}
+
+.shopnowrect {
+    position: absolute;
+    width: 279px;
+    height: 83px;
+    left: 810px;
+    top: 750px;
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 50px;
+}
+
+.shopnowtext {
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 18px;
+    color: white;
+    left: 30%;
+    top: 10%;
+}
+
+.labelrect1 {
+    position: absolute;
+    width: 35px;
+    height: 38px;
+    left: 770px;
+    top: 910px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.labelrect2 {
+    position: absolute;
+    width: 35px;
+    height: 38px;
+    left: 930px;
+    top: 910px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.labelrect3 {
+    position: absolute;
+    width: 35px;
+    height: 38px;
+    left: 1090px;
+    top: 910px;
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.number2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-style: normal; 
+    font-weight: 1000; 
+    font-size: 18px; 
+    line-height: 18px; 
+    position: absolute;
+    position: absolute;
+    color: white;
+    left: 42%;
+    top: 94.5%;
+}
+
+.number3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-style: normal; 
+    font-weight: 1000; 
+    font-size: 18px; 
+    line-height: 18px; 
+    position: absolute;
+    position: absolute;
+    color: white;
+    left: 44.5%;
+    top: 94.5%;
+}
+
+.number5 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-style: normal; 
+    font-weight: 1000; 
+    font-size: 18px; 
+    line-height: 18px; 
+    position: absolute;
+    position: absolute;
+    color: white;
+    left: 50%;
+    top: 94.5%;
+}
+
+.number6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-style: normal; 
+    font-weight: 1000; 
+    font-size: 18px; 
+    line-height: 18px; 
+    position: absolute;
+    position: absolute;
+    color: white;
+    left: 52.5%;
+    top: 94.5%;
+}
+
+.vector {
+    position: absolute;
+    width: 10px;
+    height: 985px;
+    left: 700px;
+    top: -10px;
+    background: #BE0F19;
+    /* background: #BE0F19; */
+    transform: matrix(120, 0, 0.5, -1, 1000, 0);
+    z-index: -4;
+}
+
+.shoe1 {
+    position: absolute;
+    left: 120px;
+    top: 308px;
+}
+
+.shoe2 {
+    position: absolute;
+    left: 470px;
+    top: 326px;
+}
+
+.shoe3 {
+    position: absolute;
+    left: 830px;
+    top: 399px;
+}
+
+.shoe4 {
+    position: absolute;
+    left: 1120px;
+    top: 350px;
+}
+
+.shoe5 {
+    position: absolute;
+    left: 1465px;
+    top: 350px;
+}
